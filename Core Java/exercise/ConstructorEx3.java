@@ -9,9 +9,9 @@ public class ConstructorEx3 {
 		System.out.println("static block");
 	}
 	String construct(String name) {
-	    //name="bhuvane";
+	   
 	   return name;
-	   //.out.println(name);
+	  
 	}
 
 	ConstructorEx3(){
