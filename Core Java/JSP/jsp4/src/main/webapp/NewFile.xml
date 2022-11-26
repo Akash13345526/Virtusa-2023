@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+<servlet>
+<servlet-name>bhuvane</servlet-name>
+<jsp-file>NewFile.jsp</jsp-file>
+
+<init-param>
+<param-name>dname</param-name>
+<param-value>jdbc.driver</param-value>
+</init-param>
+
+<servlet-mapping>
+<servlet-name>bhuvanesh</servlet-name>
+<url-pattern>/NewFile.jsp</url-pattern>
+</servlet-mapping>
+
+</servlet>
+</web-app>
