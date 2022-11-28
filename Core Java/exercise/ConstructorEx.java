@@ -11,6 +11,6 @@ public class ConstructorEx {
 		System.out.println(name);
 	}
 public static void main(String[] args) {
-	 ConstructorEx Ex= new ConstructorEx("bhuvane");
+	 ConstructorEx Ex= new ConstructorEx("Akash");
 }
 }
