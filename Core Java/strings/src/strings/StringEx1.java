@@ -4,11 +4,11 @@ public class StringEx1 {
 	public static void main(String[] args) {
 		String s1=new String("aaaa");
 		System.out.println(s1);
-		String name="bhuvanesh";
+		String name="Akash";
 		System.out .println(name);
-		StringBuffer sb=new StringBuffer("bhuvn");
+		StringBuffer sb=new StringBuffer("Aka");
 		System.out.println(sb);
-		StringBuilder sbl=new StringBuilder("bhuva");
+		StringBuilder sbl=new StringBuilder("Akas");
 		System.out.println(sbl);
 		
 		
