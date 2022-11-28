@@ -2,7 +2,7 @@ package strings;
 
 public class StringEx7 {
 	public static void main(String[] args) {
-		String s1="  bhuvanesh";
+		String s1="  akash";
 		System.out.println(s1);
          System.out.println(s1.length());
          
@@ -32,7 +32,7 @@ public class StringEx7 {
          String s7=s5+s6;
          System.out.println(s7);
          System.out.println(s7.trim());
-         String s8=s7.replace("tendulkar","bhuva");
+         String s8=s7.replace("tendulkar","aka");
        //  System.out.println(s7.replace("tendulkar", "bhuva");
          System.out.println(s8);
          StringBuffer sb2=new StringBuffer(s8);
