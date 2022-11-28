@@ -42,10 +42,10 @@ public class encapsulation {
 	
 	public static void main(String[] args) {
 		Account acc=new Account();
-		acc.setName("bhuvan");
+		acc.setName("Akash");
 		acc.setacc_no(12234567811111L);
 		acc.setbankname("state name");
-		acc.setphoneNo(9344667107l);
+		acc.setphoneNo(9444436778);
 		System.out.println("********bank details********");
 		//System.out.println(acc.getName());
 		System.out.println("     Acc_no    "+acc.getacc_no());
