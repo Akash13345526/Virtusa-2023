@@ -31,7 +31,7 @@ public class ConstructorEx3 {
 		new ConstructorEx3();
 		ConstructorEx3 obj=new ConstructorEx3();
 		
-		System.out.println(obj.construct("bhuvbe"));
+		System.out.println(obj.construct("Akash"));
 		
 	}
 }
